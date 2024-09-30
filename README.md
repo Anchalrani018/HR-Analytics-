@@ -1,10 +1,10 @@
-Project Title: HR Analytics Dashboard 
+#HR Analytics Dashboard 
 
-1. Business Question: 
+#Business Question: 
    Why is the company’s attrition rate increasing, and how can it be reduced?
    This dashboard is built to analyze the rising attrition rates within the organization, identify the underlying factors contributing to employee turnover, and provide actionable insights to improve retention.
 
-2. Key Dimensions/Measures:
+#Key Dimensions/Measures:
     The key dimensions and measures used in the dashboard are:
     •	Employee Demographics: Age, Gender, Department, Job Role
 	  •	Employee Performance: Performance Rating, Promotions
@@ -14,7 +14,7 @@ Project Title: HR Analytics Dashboard
 	  •	Attrition: Status (Attrition or Active), Exit Reasons
 	  •	Work Environment: Workload, Work-Life Balance, Manager Support.
 
-3. Key Insights:
+#Key Insights:
    The dashboard provides insights into why employees are leaving the company and what improvements can be made to reduce the attrition rate:
 	•	Attrition Rate by Department: This insight identifies which departments have the highest turnover. For example, high attrition in the sales department might indicate issues related to job satisfaction or 
     workload.
@@ -24,7 +24,7 @@ Project Title: HR Analytics Dashboard
 	•	Compensation and Retention: A salary distribution analysis shows whether employees in lower pay grades or those receiving below-average compensation are more likely to leave.
 	•	Tenure and Attrition Trends: Employees who have been with the company for 1-2 years show a higher propensity to leave. This insight helps HR focus on retention strategies for newer employees.
 
-4. Process Involved:
+#Process Involved:
    Step 1: Data Collection
    Data was gathered from the company’s HR information system (HRIS), including employee demographics, performance data, satisfaction surveys, and compensation details. Attrition data (whether an employee left
    or stayed) was also extracted.
@@ -48,9 +48,16 @@ Project Title: HR Analytics Dashboard
  After the dashboard was built, insights were interpreted, and key recommendations were formulated, such as improving employee satisfaction programs, revising compensation strategies, and developing targeted
  retention efforts for high-risk groups (e.g., those with lower satisfaction scores or in high-attrition departments).
 
-5.Conclusion:
+#Conclusion:
 The HR Analytics Dashboard provides a clear understanding of why the company’s attrition rate is increasing. By focusing on key factors such as job satisfaction, performance, and compensation, the dashboard
 helps HR teams develop targeted retention strategies to reduce employee turnover and improve overall workforce satisfaction.
+
+## Download the Dashboard
+You can download and view the Power BI HR Analytics Dashboard by clicking the link below:
+
+[Download the HR Analytics Dashboard](https://github.com/Anchalrani018/HR-Analytics-/blob/main/HR%20ANALYTICS%20SD.pbix)
+
+To view this dashboard, you will need to open the .pbix file using Power BI Desktop.
 
 
  
